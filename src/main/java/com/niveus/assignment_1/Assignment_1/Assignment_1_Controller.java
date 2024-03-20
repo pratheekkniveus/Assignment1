@@ -10,7 +10,7 @@ public class Assignment_1_Controller {
 
     @GetMapping("assignment1")
     public String getMessage(){
-        return "This is a simple rest api for assignment 1";
+        return "This is a simple rest api for assignment 1 And making few changes in the code";
     }
 
 }
